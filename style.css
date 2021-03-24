@@ -1,0 +1,124 @@
+.logo-small{
+    width: 30px;
+    height: 30px;
+}
+.container {
+    max-width: 960px;
+    
+}
+
+.carousel-caption {
+   position: absolute;
+   padding: 0;
+   margin: 0;
+   margin-bottom: 53%;
+
+}
+
+.carousel-inner {
+    max-height: 200px;
+}
+
+.carousel-caption,
+h5 {
+    color: #0dcaf0;
+    font-weight: 800;
+    font-size: 45px;
+    opacity: 90%;
+
+}
+
+.carousel-caption,
+p {
+    color: #20c997;
+    font-weight: 800;
+    font-size: 30px;
+    opacity: 90%;
+   
+}
+
+.carousel-control-prev:hover{
+    background-color: rgba(233, 231, 238, 0.13);
+    
+}
+
+.carousel-control-next:hover{
+    background-color: rgba(233, 231, 238, 0.13);
+}
+
+.margin-top-botom{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.logo-item {
+    height: 50px;
+    width: 100%;
+    opacity: 70%;
+}
+
+.text-prop-blue {
+    color: #0dcaf0;
+    font-weight: 800;
+    font-size: 35px;
+    
+}
+
+.text-prop-green {
+    color: #20c997;
+    font-weight: 800;
+    font-size: 35px;
+   
+}
+
+.margin-left-right{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.card-title {
+    color:red;
+    font-size: 25px;
+}
+
+.card-text {
+    color: black;
+    font-size: 16px;
+
+}
+
+.card-header {
+    color: #0dcaf0;
+    font-size: 25px;
+
+}
+
+.text-line {
+    display: flex;
+    justify-content: space-between;
+    
+    flex-direction: column;
+}
+
+.text-color-big {
+    color: black;
+    font-size: 25px;
+}
+
+.text-color-small {
+    color: black;
+    font-size: 16px;
+}
+
+.margin-right {
+    margin-right: 50px;
+}
+
+.margin-left {
+    margin-left: 5px;
+}
+
+a  {
+    text-decoration: none;
+    font-size: 20px;
+}
